@@ -18,7 +18,7 @@ Angular.js, JavaScript, html, css.
 
 ###Legal
 
-Copyright (c) 2015 Nathan Young & Jose Torres
+Copyright (c) 2015 Austin Blanchard & Jose Torres
 
 This software is licensed under the MIT license.
 
